@@ -3,6 +3,3 @@ tensorflow
 numpy
 matplotlib
 Pillow
-PIL
-zzz
-aaa
